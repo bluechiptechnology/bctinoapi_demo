@@ -1,0 +1,5 @@
+include ':MPChartLib'
+include ':bctapi'
+include ':ino'
+include ':app'
+rootProject.name = "grove_gas_monitor"
