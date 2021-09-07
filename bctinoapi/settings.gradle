@@ -1,0 +1,3 @@
+include ':BCTAPI'
+include ':bctinoapi'
+rootProject.name = "bctinoapi"
